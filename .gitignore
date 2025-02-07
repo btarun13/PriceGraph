@@ -1,1 +1,6 @@
 *.pyc
+/VG/*
+/data/*
+/models.tar.gz*
+/data.tar.gz*
+/models/*
